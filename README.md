@@ -5,7 +5,7 @@ The objective of this project is to predict the flight prices given the various 
 
 Visit https://flight-fare-calculatorr.herokuapp.com/ to view the website.
 
-![](website.png)
+![](websiteflight.png)
 ## Technologies used in the project
 
 1. Python
